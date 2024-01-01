@@ -1,4 +1,4 @@
-![logo](https://github.com/Imshivamnair/My-Bio/blob/main/19362653.jpg)
+![logo width="400" height="400"](https://github.com/Imshivamnair/My-Bio/blob/main/19362653.jpg)
 <h1 align="center">Hi 👋, I'm Kumar Shivam Nair</h1>
 <h3 align="center">Frontend Developer from India</h3>
 
