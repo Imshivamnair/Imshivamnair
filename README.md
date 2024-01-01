@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Kumar Shivam Nair</h1>
 <h3 align="center">Frontend Developer from India</h3>
 
@@ -13,7 +12,7 @@
 
 - 🌱 I’m currently learning **React , Redux , Next.js , Typescript**
 
-- 📝 I regularly write articles on [my tweeter also known as X (https://twitter.com/imshivamnair)](my tweeter also known as X (https://twitter.com/imshivamnair))
+- 📝 I regularly write articles on my Twitter also known as X (https://twitter.com/imshivamnair)
 
 - 💬 Ask me about **Frontend Technogolies**
 
