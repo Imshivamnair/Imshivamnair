@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Shivam Nair</h1>
 <h3 align="center">Frontend Developer from India</h3>
 
-<img align="right" alt="coding" width="400" height="400" src="https://github.com/Imshivamnair/My-Bio/blob/main/coding.gif">
+<img align="right" alt="coding" width="400" height="400" src="https://github.com/Imshivamnair/Imshivamnair/blob/main/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imshivamnair&label=Profile%20views&color=0e75b6&style=flat" alt="imshivamnair" /> </p>
